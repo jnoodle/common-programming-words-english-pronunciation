@@ -2,9 +2,9 @@
 
 常见编程词汇英文发音，主要是容易发错的，建议 star 之后慢慢听。欢迎提 pr ~
 
-<span style="color: #dd4b39">注意按着 Ctrl / Command(⌘) 键在新标签页打开 Play 链接，省的来回回退麻烦。</span>
+**注意：按着 Ctrl / Command(⌘) 键在新标签页打开 Play 链接，省的来回回退麻烦。**
 
-发音以美音为准（ play1 源自有道词典，play2 源自 Forvo，如无标注，均为美音），音标也是[美式音标](https://zh.wikipedia.org/wiki/KK%E9%9F%B3%E6%A8%99)。
+发音以美音为准（ play1 源自有道词典，play2 源自 Forvo、pronouncekiwi等，如无标注，均为美音），音标也是[美式音标](https://zh.wikipedia.org/wiki/KK%E9%9F%B3%E6%A8%99)。
 
 ### 普通词汇
 
@@ -78,6 +78,7 @@
 | sudo | [►play1](http://dict.youdao.com/dictvoice?audio=sudo&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/p/w/pw_9218662_39_282780_35760.mp3) | `/ˈsuːduː/` 或 `/ˈsuːdoʊ/` |
 | suite | [►play1](http://dict.youdao.com/dictvoice?audio=suite&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/t/f/tf_9054385_39_283697_437392.mp3) | `/swit/` 不要读成 /sju:t/ |
 | typical | [►play1](http://dict.youdao.com/dictvoice?audio=typical&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/5/s/5s_8980652_39_374064_1.mp3) | `/ˈtɪpɪkəl/` 注意 y 的发音，不是 /aɪ/ |
+| value | [►play1](http://dict.youdao.com/dictvoice?audio=value&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/g/v/gv_9093873_39_307493_64950.mp3) | `/'vælju/` |
 | variable | [►play1](http://dict.youdao.com/dictvoice?audio=variable&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/m/p/mp_8975595_39_282615_35388.mp3) | `/'vɛrɪəbl/` |
 | width | [►play1](http://dict.youdao.com/dictvoice?audio=width&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/s/q/sq_8981864_39_14762_14431.mp3) | `/wɪdθ/` |
 
@@ -105,7 +106,9 @@
 | Java | [►play1](http://dict.youdao.com/dictvoice?audio=Java&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/n/c/nc_9141671_39_5003_1111621.mp3) | `/'dʒɑːvə/` |
 | Linux | [►play1](http://dict.youdao.com/dictvoice?audio=Linux&type=2)&nbsp;&nbsp; [►play2](http://upload.wikimedia.org/wikipedia/commons/0/03/Linus-linux.ogg) | `/'lainʌks/` 或 `/'lɪnɪks/` 或 `/ˈlɪnəks/`， Linus Torvalds 本人发音为 `/'lɪ.nəks/` |
 | Microsoft | [►play1](http://dict.youdao.com/dictvoice?audio=Microsoft&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/7/x/7x_8973348_39_50_2901.mp3) | `/'maikrəusɔft/` |
+| Mongo | [►play1](http://dict.youdao.com/dictvoice?audio=Mongo&type=2) | `/ˈmɑŋɡo/` |
 | MySQL | [►play1](http://dict.youdao.com/dictvoice?audio=MySQL&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/p/b/pb_8971681_39_1501_1790.mp3) | 官方标准发音为 My Ess Que Ell，但是一般大家都发 my sequel `/'sikwəl/` |
+| Nvidia CUDA | [►play1](http://audio.pronouncekiwi.com/Kimberly/Nvidia%20cuda)&nbsp;&nbsp; [►play2(英)](http://audio.pronouncekiwi.com/Joanna/Nvidia%20cuda) | `/ɪnˈvɪdiə/` `/'ku:də/` |
 | Oracle | [►play1](http://dict.youdao.com/dictvoice?audio=Oracle&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/p/k/pk_9567265_39_70763.mp3) | `/'ɔrəkl/` |
 | Phantom | [►play1](http://dict.youdao.com/dictvoice?audio=Phantom&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/f/h/fh_8983770_39_396172_1.mp3) | `/'fæntəm/` ph 读 `/f/` |
 | Putty | [►play1](http://dict.youdao.com/dictvoice?audio=Putty&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/g/8/g8_8981864_39_829948_551255.mp3) | `/ˈpʌti/` u 读 `/ʌ/` |
@@ -115,8 +118,8 @@
 | Realm | [►play1](http://dict.youdao.com/dictvoice?audio=Realm&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/6/6/66_8974169_39_69390_1.mp3) | `/rɛlm/` |
 | San Jose | [►play1](http://dict.youdao.com/dictvoice?audio=Jose&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/k/0/k0_9419125_39_3770302.mp3) | 圣何塞 `/ˌsæn həʊˈzeɪ/` 注意 Jose 读音 |
 | Safari | [►play1](http://dict.youdao.com/dictvoice?audio=Safari&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/x/9/x9_9242558_39_64900_1252141.mp3) | `/sə'fɑri/` 注意重音位置 |
+| Scala | [►play1](http://dict.youdao.com/dictvoice?audio=Scala&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/1/k/1k_9540499_39_395258.mp3) | `/ˈskaːla/` |
 | SQL | [►play1](http://dict.youdao.com/dictvoice?audio=SQL&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/b/0/b0_9237650_39_16_1897767.mp3) | `/ˈɛs kjuːˈɛl/` 或 `/ˈsiːkwəl/` |
-| Mongo | [►play1](http://dict.youdao.com/dictvoice?audio=Mongo&type=2) | `/ˈmɑŋɡo/` |
 | Ubuntu | [►play1](http://dict.youdao.com/dictvoice?audio=Ubuntu&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/w/9/w9_8971576_39_1644_1560.mp3) | `/ʊ'bʊntʊ/` 注意重音位置 |
 | Vue | [►play1](http://dict.youdao.com/dictvoice?audio=Vue&type=2)&nbsp;&nbsp; [►play2](http://dict.youdao.com/dictvoice?audio=view&type=2) | `/vjuː/` 不要拆开读 |
 | YouTube | [►play1](http://dict.youdao.com/dictvoice?audio=YouTube&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/c/x/cx_8986016_39_25_156560.mp3) | `/ˈjuːtuːb/` 不要读成 /ˈjuːtuːbi/ |
