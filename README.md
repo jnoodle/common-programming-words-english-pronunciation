@@ -111,10 +111,10 @@
 | Java | [►play1](http://dict.youdao.com/dictvoice?audio=Java&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/n/c/nc_9141671_39_5003_1111621.mp3) | `/'dʒɑːvə/` |
 | Jekyll | [►play1](http://dict.youdao.com/dictvoice?audio=Jekyll&type=2)&nbsp;&nbsp; [►play2](http://audio.pronouncekiwi.com/Amy/Jekyll) | `/'dʒekil/` |
 | Laravel | [►play1](https://audio00.forvo.com/audios/mp3/l/z/lz_9294055_39_2289308_1.mp3)&nbsp;&nbsp; [►play2](http://audio.pronouncekiwi.com/zh-tw/Laravel) | Lah-rah-vell |
-| Linux | [►play1](http://dict.youdao.com/dictvoice?audio=Linux&type=2)&nbsp;&nbsp; [►play2](http://upload.wikimedia.org/wikipedia/commons/0/03/Linus-linux.ogg) | `/'lainʌks/` 或 `/'lɪnɪks/` 或 `/ˈlɪnəks/`， Linus Torvalds 本人发音为 `/'lɪ.nəks/` |
+| Linux | [►play1](http://dict.youdao.com/dictvoice?audio=Linux&type=2)&nbsp;&nbsp; [►play2](http://upload.wikimedia.org/wikipedia/commons/0/03/Linus-linux.ogg) | `/'lainʌks/` 或 `/'lɪnɪks/` 或 `/ˈlɪnəks/`，<br> Linus Torvalds 本人发音为 `/'lɪ.nəks/` |
 | Microsoft | [►play1](http://dict.youdao.com/dictvoice?audio=Microsoft&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/7/x/7x_8973348_39_50_2901.mp3) | `/'maikrəusɔft/` |
 | Mongo | [►play1](http://dict.youdao.com/dictvoice?audio=Mongo&type=2) | `/ˈmɑŋɡo/` |
-| MySQL | [►play1](http://dict.youdao.com/dictvoice?audio=MySQL&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/p/b/pb_8971681_39_1501_1790.mp3) | 官方标准发音为 My Ess Que Ell，但是一般大家都发 my sequel `/'sikwəl/` |
+| MySQL | [►play1](http://dict.youdao.com/dictvoice?audio=MySQL&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/p/b/pb_8971681_39_1501_1790.mp3) | 官方标准发音为 My Ess Que Ell，<br>但是一般大家都发 my sequel `/'sikwəl/` |
 | Nvidia CUDA | [►play1](http://audio.pronouncekiwi.com/Kimberly/Nvidia%20cuda)&nbsp;&nbsp; [►play2(英)](http://audio.pronouncekiwi.com/Joanna/Nvidia%20cuda) | `/ɪnˈvɪdiə/` `/'ku:də/` |
 | Oracle | [►play1](http://dict.youdao.com/dictvoice?audio=Oracle&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/p/k/pk_9567265_39_70763.mp3) | `/'ɔrəkl/` |
 | Phantom | [►play1](http://dict.youdao.com/dictvoice?audio=Phantom&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/f/h/fh_8983770_39_396172_1.mp3) | `/'fæntəm/` ph 读 `/f/` |
