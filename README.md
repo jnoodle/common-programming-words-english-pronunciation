@@ -32,6 +32,7 @@
 | compiler | [►play1](http://dict.youdao.com/dictvoice?audio=compiler&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/6/u/6u_8985614_39_415708_226474.mp3) | `/kəm'paɪlɚ/` |
 | constant | [►play1](http://dict.youdao.com/dictvoice?audio=constant&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/s/o/so_9077867_39_69508_824677.mp3) | `/'kɑnstənt/` |
 | crash | [►play1](http://dict.youdao.com/dictvoice?audio=crash&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/j/g/jg_9437970_39_317993.mp3) | `/kræʃ/` |
+| curl | [►play1](http://dict.youdao.com/dictvoice?audio=curl&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/2/k/2k_9342102_39_462526.mp3) | `/kɝl/` 也可以拆分读成 [see URL](https://curl.haxx.se/docs/faq.html#What_is_cURL) |
 | debug | [►play1](http://dict.youdao.com/dictvoice?audio=debug&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/o/x/ox_9002322_39_550002_1.mp3) | `/ˌdi'bʌɡ/` 注意重音位置 |
 | declaration | [►play1](http://dict.youdao.com/dictvoice?audio=declaration&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/e/u/eu_8986237_39_321332_78274.mp3) | `/ˌdɛklə'reʃən/` |
 | definition | [►play1](http://dict.youdao.com/dictvoice?audio=definition&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/i/l/il_8976598_39_6229_6344.mp3) | `/ˌdɛfɪ'nɪʃən/` |
@@ -39,6 +40,7 @@
 | deque | [►play1](http://dict.youdao.com/dictvoice?audio=deque&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/b/c/bc_9580018_39_4867064.mp3) | `/'di:ke/` 不要读成 /'di:kju/ |
 | digest | [►play1](http://dict.youdao.com/dictvoice?audio=digest&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/0/c/0c_8971534_39_5373_1.mp3) | `/daɪ'dʒɛst/` |
 | doc | [►play1](http://dict.youdao.com/dictvoice?audio=doc&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/w/8/w8_9073797_39_770834.mp3) | `/dɑk/` 别分开读 |
+| eval | [►play1](http://dict.youdao.com/dictvoice?audio=eval&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/k/5/k5_9373812_39_3084067.mp3) | `/ɪ'væl/` 和 evaluation 开头读音一样 |
 | execute | [►play1](http://dict.youdao.com/dictvoice?audio=execute&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/u/i/ui_9098832_39_15118_14590.mp3) | `/'ɛksɪkjut/` 不是 /'ɪksɪkjut/ |
 | facade | [►play1](http://dict.youdao.com/dictvoice?audio=facade&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/5/6/56_9607240_39_5301033.mp3) | `/fə'sɑ:d/` 注意重音和读音 |
 | float | [►play1](http://dict.youdao.com/dictvoice?audio=float&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/z/a/za_8981864_39_285724_42606.mp3) | `/flot/` |
@@ -105,7 +107,10 @@
 | GNU | [►play1](http://dict.youdao.com/dictvoice?audio=GNU&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/7/q/7q_8981864_39_120182_352202.mp3) | `/(g)nu/` g可发可不发，不要拆开读 |
 | GUI | [►play1](http://dict.youdao.com/dictvoice?audio=GUI&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/8/d/8d_8971626_39_2190_2349.mp3) | `/ˈɡui/`，不要拆开读 |
 | Haskell | [►play1](http://dict.youdao.com/dictvoice?audio=Haskell&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/i/k/ik_9061632_39_513410_242186.mp3) | `/ˈhæskəl/` |
+| IEEE | [►play1](https://audio00.forvo.com/audios/mp3/q/b/qb_9129122_39_1297471_1.mp3) | I triple E，不要拆开读 |
 | Java | [►play1](http://dict.youdao.com/dictvoice?audio=Java&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/n/c/nc_9141671_39_5003_1111621.mp3) | `/'dʒɑːvə/` |
+| Jekyll | [►play1](http://dict.youdao.com/dictvoice?audio=Jekyll&type=2)&nbsp;&nbsp; [►play2](http://audio.pronouncekiwi.com/Amy/Jekyll) | `/'dʒekil/` |
+| Laravel | [►play1](https://audio00.forvo.com/audios/mp3/l/z/lz_9294055_39_2289308_1.mp3)&nbsp;&nbsp; [►play2](http://audio.pronouncekiwi.com/zh-tw/Laravel) | Lah-rah-vell |
 | Linux | [►play1](http://dict.youdao.com/dictvoice?audio=Linux&type=2)&nbsp;&nbsp; [►play2](http://upload.wikimedia.org/wikipedia/commons/0/03/Linus-linux.ogg) | `/'lainʌks/` 或 `/'lɪnɪks/` 或 `/ˈlɪnəks/`， Linus Torvalds 本人发音为 `/'lɪ.nəks/` |
 | Microsoft | [►play1](http://dict.youdao.com/dictvoice?audio=Microsoft&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/7/x/7x_8973348_39_50_2901.mp3) | `/'maikrəusɔft/` |
 | Mongo | [►play1](http://dict.youdao.com/dictvoice?audio=Mongo&type=2) | `/ˈmɑŋɡo/` |
