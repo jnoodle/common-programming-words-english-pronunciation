@@ -10,6 +10,12 @@
 * <img src="audio2.png" width="24"> 源自 Forvo、pronouncekiwi等，美音
 * <img src="uk.png" width="24"> 源自 Forvo、pronouncekiwi等，英音
 
+<style>
+.markdown-body table td {
+    font-size: 18px;
+}
+</style>	
+
 ### 普通词汇
 
 | 词汇 | 发音 | 定义 | 音标和发音注意 |
