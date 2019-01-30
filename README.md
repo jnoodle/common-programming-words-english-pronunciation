@@ -11,6 +11,7 @@
 | Word / Term | Pronunciation | Note |
 |:---:|:---:|:---|
 | access | [►play1](http://dict.youdao.com/dictvoice?audio=access&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/1/p/1p_8975595_39_283368_36283.mp3) | `/'æksɛs/` 注意重音 |
+| admin | [►play1](http://dict.youdao.com/dictvoice?audio=admin&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/8/7/87_8980514_39_383437_1.mp3) | `/'ædmɪn/` 不要读成 /'ədmɪn/ |
 | agile | [►play1](http://dict.youdao.com/dictvoice?audio=agile&type=2)&nbsp;&nbsp; [►play2(英)](https://audio00.forvo.com/audios/mp3/t/m/tm_9273320_39_7163.mp3) | `/'ædʒl/` 注意重音，英音为 `/'ædʒaɪl/` |
 | algorithm | [►play1](http://dict.youdao.com/dictvoice?audio=algorithm&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/8/q/8q_8973400_39_33777_1.mp3) | `/'ælgə'rɪðəm/` |
 | alias | [►play1](http://dict.youdao.com/dictvoice?audio=alias&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/s/1/s1_8979569_39_1363_13089.mp3) | `/'elɪəs/` |
@@ -88,6 +89,7 @@
 
 | Word / Term | Pronunciation | Note |
 |:---:|:---:|:---|
+| Adobe | [►play1](http://dict.youdao.com/dictvoice?audio=Adobe&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/4/q/4q_9032095_39_793_486753.mp3) | `/əˈdobi/` 注意结尾 e 发音，不要读成 /əˈdob/ |
 | Amazon | [►play1](http://dict.youdao.com/dictvoice?audio=Amazon&type=2)&nbsp;&nbsp; [►play2(英)](https://audio00.forvo.com/audios/mp3/q/h/qh_9030627_39_704_52945.mp3) | `/ˈæməˌzɑn/` 英音是 `/ˈæməzən/` |
 | Angular | [►play1](http://dict.youdao.com/dictvoice?audio=Angular&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/d/r/dr_8971826_39_430437_170186.mp3) | `/'æŋɡjəlɚ/` |
 | AJAX | [►play1](http://dict.youdao.com/dictvoice?audio=AJAX&type=2)&nbsp;&nbsp; [►play2](https://audio00.forvo.com/audios/mp3/j/m/jm_9857836_39_739.mp3) | `/ˈeˌdʒæks/` 不要再读成阿贾克斯了 |
